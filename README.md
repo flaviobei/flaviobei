@@ -36,6 +36,12 @@ Profissional com mais de 23 anos de experiência em desenvolvimento de software 
 
 ---
 
+## 📫 Contato
+
+- 💼 LinkedIn: [https://linkedin.com/in/flaviobei](https://linkedin.com/in/flaviobei)
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
@@ -45,14 +51,4 @@ Profissional com mais de 23 anos de experiência em desenvolvimento de software 
 
 ---
 
-## 🐍 Snake Animation
 
-![Snake animation](https://github.com/flaviobei/flaviobei/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: [https://linkedin.com/in/seuusuario](https://linkedin.com/in/flaviobei)
-
---
