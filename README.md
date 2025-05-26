@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Flávio! 👋</h1>
+<h1 align="left">Olá, eu sou o Flávio! 👋</h1>
 
 <p align="justify">
 Profissional com mais de 23 anos de experiência em desenvolvimento de software e automação industrial. Grande experiência com fotogrametria aérea e Matterport para criação de ambientes virtuais imersivos. Formação técnica em programação, além de sólida experiência em banco de dados, gestão de equipes e projetos. Atualmente cursando Engenharia Mecânica.
