@@ -33,5 +33,7 @@ Profissional com mais de 23 anos de experiência em desenvolvimento de software 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
+![Snake animation](https://github.com/flaviobei/flaviobei/blob/output/github-contribution-grid-snake.svg)
+
 ---
 ---
