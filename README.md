@@ -11,7 +11,7 @@ Profissional com mais de 23 anos de experiência em desenvolvimento de software 
 - 👨‍💻 Atuo no desenvolvimento de software e automação industrial há mais de 23 anos.
 - 🏗️ Experiência em projetos de automação industrial para grandes empresas como **Nestlé** e **Citrosuco**.
 - 📷 Atuação em **captação de imagens aéreas**, **mapeamento 3D** e desenvolvimento de **tours virtuais** para museus, escritórios e empresas.
-- 🎸 Desde 2012 também trabalho como **luthier**, desenvolvendo instrumentos musicais.
+- 🎸 Desde 2012 também trabalho como **luthier**, regulando e construindo instrumentos musicais.
 - 🛠️ Atualmente cursando **Engenharia Mecânica**.
 
 ---
