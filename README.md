@@ -6,7 +6,7 @@ Profissional com mais de 23 anos de experiência em desenvolvimento de software,
 
 ---
 
-## 🚀 Sobre mim
+## 🧔🏻 Sobre mim
 
 - 👨‍💻 Atuo no desenvolvimento de software e automação industrial há mais de 23 anos.
 - 🏗️ Experiência em projetos de automação industrial para grandes empresas como **Nestlé** e **Citrosuco**.
