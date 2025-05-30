@@ -1,7 +1,7 @@
 <h1 align="left">Olá, eu sou o Flávio! 👋</h1>
 
 <p align="justify">
-Profissional com mais de 23 anos de experiência em desenvolvimento de software e automação industrial. Grande experiência com fotogrametria aérea e Matterport para criação de ambientes virtuais imersivos. Formação técnica em programação, além de sólida experiência em banco de dados, gestão de equipes e projetos. Atualmente cursando Engenharia Mecânica.
+Profissional com mais de 23 anos de experiência em desenvolvimento de software, automação industrial e gestão. Grande experiência com fotogrametria aérea e Matterport para criação de ambientes virtuais imersivos. Formação técnica em programação, além de sólida experiência em banco de dados, gestão de equipes e projetos. Atualmente cursando Engenharia Mecânica.
 </p>
 
 ---
@@ -10,8 +10,10 @@ Profissional com mais de 23 anos de experiência em desenvolvimento de software 
 
 - 👨‍💻 Atuo no desenvolvimento de software e automação industrial há mais de 23 anos.
 - 🏗️ Experiência em projetos de automação industrial para grandes empresas como **Nestlé** e **Citrosuco**.
-- 📷 Atuação em **captação de imagens aéreas**, **mapeamento 3D** e desenvolvimento de **tours virtuais** para museus, escritórios e empresas.
-- 🎸 Desde 2012 também trabalho como **luthier**, regulando e construindo instrumentos musicais.
+- 📷 Experiência em **aerofotografia**, **fotogrametria** e **mapeamento 3D** e criação de **tours virtuais**.
+- 📹 Produção, captação e edição de áudio e vídeo.
+- 🖼️ Design de produto, prototipagem e impressão 3D.
+- 🎸 Desde 2012 também trabalho como **luthier**, construindo e regulando instrumentos musicais.
 - 🛠️ Atualmente cursando **Engenharia Mecânica**.
 
 ---
@@ -50,5 +52,3 @@ Profissional com mais de 23 anos de experiência em desenvolvimento de software 
 </p>
 
 ---
-
-
